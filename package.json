@@ -12,6 +12,7 @@
     "metro": "0.72.3"
   },
   "dependencies": {
+    "@mobily/stacks": "^2.2.1",
     "@shopify/restyle": "2.0.0",
     "expo": "~46.0.13",
     "expo-router": "^0.0.17",
