@@ -12,10 +12,10 @@
     "metro": "0.72.3"
   },
   "dependencies": {
-    "@mobily/stacks": "^2.2.1",
+    "@mobily/stacks": "^2.2.2",
     "@shopify/restyle": "2.0.0",
     "expo": "~46.0.13",
-    "expo-router": "^0.0.17",
+    "expo-router": "^0.0.20",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",

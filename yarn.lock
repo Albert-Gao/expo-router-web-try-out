@@ -1487,12 +1487,12 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mobily/stacks@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@mobily/stacks/-/stacks-2.2.1.tgz#8915fcf2bdea7f7b03169b5dae5fef991a7986fc"
-  integrity sha512-wdVmtjSeso8XPmEUk/1vPjPTcLSa35oZHcSNA+mXJqw8J2eH2L+90GCosDAI7mXHM36hnRoTyWnyFH+XMxxydQ==
+"@mobily/stacks@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@mobily/stacks/-/stacks-2.2.2.tgz#dcfebb0c4fcec3722af085aeda35e9f6b79f8b68"
+  integrity sha512-pl5/sImItIMGWUzk/TKYuFG/zBJTfJKIT16O50FpmQBVCaC/JzLmcXjb5PgwbtoIUqhiWhdQhvjZCDm5mkShDA==
   dependencies:
-    wonka "~4.0.15"
+    wonka "~6.1.0"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -3212,10 +3212,10 @@ expo-modules-core@0.11.5:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-router@^0.0.17:
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-0.0.17.tgz#163998bee91b681449a0b10745f15c2794798edb"
-  integrity sha512-s9Roy3PBIIIACpVp1xR1nV3qqH6M8QpWkJLdJJfmDyA0rylifUyBaJ7NKAeG+Ep2WvP9ZUNz5KB6AjtZRUXi3Q==
+expo-router@^0.0.20:
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-0.0.20.tgz#b6054525e43569512ade9974a9c03f29d7302f9c"
+  integrity sha512-/Sg33tGMrCmWrM3xrZz5+w4hYPV+uole8uVLxN//KOuKpGkj0deoybC7ssvgaGqA6F6lv6x+Izkk0O6lomGHbw==
   dependencies:
     "@bacons/expo-metro-runtime" "^2.0.1"
     "@bacons/react-views" "^1.1.3"
@@ -7077,12 +7077,12 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-wonka@^4.0.14, wonka@~4.0.15:
+wonka@^4.0.14:
   version "4.0.15"
   resolved "https://registry.yarnpkg.com/wonka/-/wonka-4.0.15.tgz#9aa42046efa424565ab8f8f451fcca955bf80b89"
   integrity sha512-U0IUQHKXXn6PFo9nqsHphVCE5m3IntqZNB9Jjn7EB1lrR7YTDY3YWgFvEvwniTzXSvOH/XMzAZaIfJF/LvHYXg==
 
-wonka@^6.0.0:
+wonka@^6.0.0, wonka@~6.1.0:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/wonka/-/wonka-6.1.0.tgz#65297ebf7031ae46d4b0c56da93950fb3ae5baaa"
   integrity sha512-VgiMCz7BXOiDbgpVhf5iNhK7hurteY5Jv0fDJewUkY0s4fbxQD2iKqfGxNXNTwp2v3bgT8QVu2l5H7YdkZ5WIA==
