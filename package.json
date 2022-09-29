@@ -15,7 +15,7 @@
     "@mobily/stacks": "^2.2.1",
     "@shopify/restyle": "2.0.0",
     "expo": "~46.0.13",
-    "expo-router": "^0.0.17",
+    "expo-router": "^0.0.20",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
@@ -26,7 +26,7 @@
     "@babel/core": "^7.12.9",
     "@types/react": "~18.0.14",
     "@types/react-native": "~0.69.1",
-    "typescript": "~4.3.5"
+    "typescript": "~4.8.4"
   },
   "private": true
 }
