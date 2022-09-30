@@ -15,7 +15,7 @@
     "@mobily/stacks": "^2.2.2",
     "@shopify/restyle": "2.0.0",
     "expo": "~46.0.13",
-    "expo-router": "^0.0.20",
+    "expo-router": "^0.0.22",
     "expo-status-bar": "~1.4.0",
     "firebase": "^9.10.0",
     "react": "18.0.0",
