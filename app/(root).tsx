@@ -5,7 +5,7 @@ import { ThemeProvider } from "../components/ThemeProvider";
 import { Suspense } from "react";
 import { StacksProvider } from "@mobily/stacks";
 
-export default function RootStack() {
+export default function Root() {
   return (
     <SafeAreaProvider>
       <ThemeProvider>
